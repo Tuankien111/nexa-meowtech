@@ -87,7 +87,7 @@
       <a href="#" class="btn">
         <ion-icon name="chevron-forward-outline" aria-hidden="true"></ion-icon>
 
-        <span>Get A Quote</span>
+        <span>Live Demo</span>
       </a>
 
       <button class="nav-open-btn" aria-label="Open Menu" data-nav-open-btn>
